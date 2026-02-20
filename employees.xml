@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employees.xsl"?>
+<employees xmlns="http://mtn.ghana.com/employees">
+    <employee>
+        <id>1</id>
+        <firstName>Kwame</firstName>
+        <lastName>Asante</lastName>
+        <position>Software Engineer</position>
+        <department>IT</department>
+        <email>kwame.asante@mtn.com.gh</email>
+        <phone>0244123456</phone>
+        <salary>8500</salary>
+        <joinDate>2020-03-15</joinDate>
+        <status>active</status>
+    </employee>
+    <employee>
+        <id>2</id>
+        <firstName>Ama</firstName>
+        <lastName>Osei</lastName>
+        <position>Network Administrator</position>
+        <department>Infrastructure</department>
+        <email>ama.osei@mtn.com.gh</email>
+        <phone>0545678901</phone>
+        <salary>7200</salary>
+        <joinDate>2019-07-20</joinDate>
+        <status>active</status>
+    </employee>
+    <employee>
+        <id>3</id>
+        <firstName>Kofi</firstName>
+        <lastName>Mensah</lastName>
+        <position>Database Administrator</position>
+        <department>IT</department>
+        <email>kofi.mensah@mtn.com.gh</email>
+        <phone>0501234567</phone>
+        <salary>7800</salary>
+        <joinDate>2018-11-10</joinDate>
+        <status>active</status>
+    </employee>
+    <employee>
+        <id>4</id>
+        <firstName>Abena</firstName>
+        <lastName>Akosua</lastName>
+        <position>Customer Service Manager</position>
+        <department>Customer Support</department>
+        <email>abena.akosua@mtn.com.gh</email>
+        <phone>0261234567</phone>
+        <salary>6500</salary>
+        <joinDate>2021-01-05</joinDate>
+        <status>active</status>
+    </employee>
+    <employee>
+        <id>5</id>
+        <firstName>Yaw</firstName>
+        <lastName>Boateng</lastName>
+        <position>Systems Analyst</position>
+        <department>IT</department>
+        <email>yaw.boateng@mtn.com.gh</email>
+        <phone>0551234567</phone>
+        <salary>7500</salary>
+        <joinDate>2022-05-18</joinDate>
+        <status>inactive</status>
+    </employee>
+    <employee>
+        <id>6</id>
+        <firstName>Cynthia</firstName>
+        <lastName>Owusu</lastName>
+        <position>Marketing Manager</position>
+        <department>Marketing</department>
+        <email>cynthia.owusu@mtn.com.gh</email>
+        <phone>0241111111</phone>
+        <salary>8000</salary>
+        <joinDate>2017-09-12</joinDate>
+        <status>active</status>
+    </employee>
+    <employee>
+        <id>7</id>
+        <firstName>Samuel</firstName>
+        <lastName>Arhin</lastName>
+        <position>Security Officer</position>
+        <department>Security</department>
+        <email>samuel.arhin@mtn.com.gh</email>
+        <phone>0502222222</phone>
+        <salary>5800</salary>
+        <joinDate>2021-02-08</joinDate>
+        <status>active</status>
+    </employee>
+</employees>
