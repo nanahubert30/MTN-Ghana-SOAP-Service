@@ -343,7 +343,7 @@
                     
                     <div class="footer">
                         <p>MTN Ghana Employee Directory | Generated from XML with XSL Transformation</p>
-                        <p>© 2024 MTN Ghana. All rights reserved.</p>
+                        <p>© 2026 MTN Ghana. All rights reserved.</p>
                     </div>
                 </div>
             </body>
